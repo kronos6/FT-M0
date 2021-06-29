@@ -17,9 +17,9 @@ img{
 #thirdDiv{
     height: 600px;
     width: 500px;
-    background-color: gold;
+    background-image: url(https://www.nomadbubbles.com/wp-content/uploads/santorini-isla-grecia.jpg);
     padding: 50px;
-    border: 10px solid red;  
+    border: 10px solid blue;  
 }
 #spanId{
     font-size: 18px;
